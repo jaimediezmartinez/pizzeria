@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+/* Estilos para el navbar */
+.navbar {
+    background-color: #000;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.imgplm{
+    width: 100px;
+}
+
+.full-width-img{
+    width: 100%; 
+    margin-top: 110px;
+}
+
+.txtpzz{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
